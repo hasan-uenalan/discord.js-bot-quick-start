@@ -1,4 +1,4 @@
-# discord.js Bot Quick Start Guide
+# discord.js Bot Quick Start Guide 2020
 This is a small tutorial for everyone who wants to create their first discord.js bot on Windows. 
 This architecture will not be scaleable, if you want to a bigger one I suggest checking [this](https://github.com/AnIdiotsGuide/guidebot) out. 
 
